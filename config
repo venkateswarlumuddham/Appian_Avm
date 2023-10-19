@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	logallrefupdates = false
+[remote "origin"]
+	url = https://github.com/venkateswarlumuddham/Appian_Avm.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
